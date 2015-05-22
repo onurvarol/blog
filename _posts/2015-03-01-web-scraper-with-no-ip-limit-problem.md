@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Web scraper without IP limit problem!
+excerpt: An example application of web scraping presented using Tor network to prevent IP limit.
 date: 2015-03-01 22:00:00
 ---
 
@@ -44,7 +45,7 @@ def webpage_connect(baseUrl, pageUrl):
     print pageUrl
     trial = 0
     toParse = False
-    while trial < 100:
+    while trial < 100: # Wait enough until dynamic content loads
         print 'Trying ...', trial
         html = driver.page_source
         if 'search-result-item-details' in html:
