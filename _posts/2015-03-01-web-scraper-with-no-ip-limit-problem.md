@@ -14,7 +14,7 @@ The main difficult and the motivation to write this blogpost is to explain how t
 
 In the [Tor browsers](https://www.torproject.org/download/download) network preferences, I set network settings to use manual proxy and changes port address as shown in figure below.
 
-<div style="text-align:center;"><img src="{{ site.base-url }}/images/tor_settings.png"></div>
+<div style="text-align:center;"><img src="{{ site.baseurl }}/images/tor_settings.png"></div>
 
 This setting allow me to connect Tor network using port 9150 and every request will send through different IP address. Later I will use these port to create selenium webdriver and connect webpage on this port.
 
