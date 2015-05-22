@@ -43,6 +43,11 @@ google_analytics: UA-7399107-2
 # Used for Sitemap.xml and your RSS feed
 url: http://onurvarol.github.io
 
+pages_list:
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml'
+
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
