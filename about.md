@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-You can visit my [academic page](www.onurvarol.com) for more
+You can visit my [academic page](http://onurvarol.github.io) for more
