@@ -36,7 +36,7 @@ driver = Firefox(profile)
 
 def webpage_connect(baseUrl, pageUrl):
     print 'Connecting...'
-    driver.get(URL)
+    driver.get(baseUrl)
 
     driver.find_element_by_id("url_box").send_keys(pageUrl)
     submitButton = driver.find_element_by_id('url_submit')
