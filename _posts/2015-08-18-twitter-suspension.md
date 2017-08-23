@@ -85,10 +85,23 @@ Twitter Platform Operations
 
 This is still not clear why _multiple applications registered to your account_ become a problem now. I noticed that I had way more application keys than I imagined. I partially blame myself for this because I wrote a script couple of years ago to create application keys automatically. It would be much better, if Twitter provide a better interface to manage each applications instead of asking users to delete them one by one.
 
-I wrote a [script](https://gist.github.com/onurvarol/d0b09fe8cb38c5aa9919cfd46ab954a9) to automatize the deletion process. However, Twitter also put a rate limit on how many application you can delete. So cleaning all the applications will take some time. Eventually, I cleaned up all my previous application keys using the script. I am now waiting for them to reopen my account.
+I wrote a [script](https://gist.github.com/onurvarol/d0b09fe8cb38c5aa9919cfd46ab954a9) to automatize the deletion process. However, Twitter also put a rate limit on how many application you can delete. So cleaning all the applications will take some time. Eventually, I cleaned up all my previous application keys using the script. 
+
+~~I am now waiting for them to reopen my account.~~ Twitter reopen my account on 08/23 and sent the email below.
+
+```
+Hello,
+ 
+We have now unsuspended your account @onurvarol. Please review the Twitter Rules (https://twitter.com/rules); repeat violations may result in permanent account suspension.
+ 
+It may take an hour or so for your follower and following numbers to return to normal.
+ 
+Thanks,
+Twitter
+```
 
 # Last words
 
 I really like Twitter and what they provide for research community. I hope to see a better Twitter.
 
-I will remember the 08/16 as the they my Twitter account suspended and reborn as [@onurvarolbot](https://twitter.com/onurvarolbot) :D
+I will remember the 08/16 as the they my Twitter account suspended ~~and reborn as [@onurvarolbot](https://twitter.com/onurvarolbot) :D~~ I can now continue using my original account. Great to have my account back!
