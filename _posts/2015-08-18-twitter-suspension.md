@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How Twitter suspend my account
-excerpt: Twitter suspend my personal account which I also use to collect dataset for my research. I am sharing my experience and try to share some suggestions for better execution.
+title: How Twitter suspended my account
+excerpt: Twitter suspended my personal account that I also use to collect dataset for my research. I am sharing my experience and some suggestions for better execution of this process.
 date: 2015-08-22 22:00:00
 ---
 
@@ -12,7 +12,7 @@ I am not a [social bot](http://www.nasdaq.com/article/twitter-bot-scandal-puts-f
 [hate speech](http://www.huffingtonpost.com/entry/twitter-faces-hate-speech-backlash_us_5992f62ee4b0caa1687a6383),
 racist comments, and fake news. Those are the subjects that I am working on as a researcher.
 
-This is the view of my account when I saw my account accused of being a violator of Twitter's rules. It's also funny because I was just [talking]((https://news.northeastern.edu/2017/08/spotting-a-social-bot-might-be-harder-than-you-think/)) about Twitter's suspension policy couple of days ago. They wrote _"Identifying sophisticated bots in a systematic way has proven difficult, which is part of the reason why Twitter hasn’t done more to crack down on fake accounts. If the platform makes a mistake and suspends or bans a real person, it would be like a store wrongly accusing a customer of stealing. The ordeal might be more trouble than it’s worth."_
+This is the view of my account when it was accused of being a violator of Twitter's rules. It's also funny because I was just [talking]((https://news.northeastern.edu/2017/08/spotting-a-social-bot-might-be-harder-than-you-think/)) about Twitter's suspension policy couple of days ago. They wrote _"Identifying sophisticated bots in a systematic way has proven difficult, which is part of the reason why Twitter hasn’t done more to crack down on fake accounts. If the platform makes a mistake and suspends or bans a real person, it would be like a store wrongly accusing a customer of stealing. The ordeal might be more trouble than it’s worth."_
 
 <div style="text-align:center; width=100%;"><img src="{{ site.baseurl }}/images/twitter-suspension/picture1.png"></div>
 
@@ -48,7 +48,7 @@ Twitter could do so many things better than its current state. They can do bette
 
 # What I am doing now?
 
-I created a new account after several appeal requests rejected by Twitter. You can follow me now at [@onurvarolbot](https://twitter.com/onurvarolbot) (notice the difference compared to my old account name :laughing:).
+I created a new account after several appeal requests rejected by Twitter. You can follow me now at [@onurvarolbot](https://twitter.com/onurvarolbot) (notice the difference compared to my old account name :D).
 
 There are several points I should make here.
 
@@ -85,10 +85,10 @@ Twitter Platform Operations
 
 This is still not clear why _multiple applications registered to your account_ become a problem now. I noticed that I had way more application keys than I imagined. I partially blame myself for this because I wrote a script couple of years ago to create application keys automatically. It would be much better, if Twitter provide a better interface to manage each applications instead of asking users to delete them one by one.
 
-I wrote a [script](https://gist.github.com/onurvarol/d0b09fe8cb38c5aa9919cfd46ab954a9) to automatize the deletion process. However, Twitter also put a rate limit on how many application you can delete. So cleaning all the applications will take some time.
+I wrote a [script](https://gist.github.com/onurvarol/d0b09fe8cb38c5aa9919cfd46ab954a9) to automatize the deletion process. However, Twitter also put a rate limit on how many application you can delete. So cleaning all the applications will take some time. Eventually, I cleaned up all my previous application keys using the script. I am now waiting for them to reopen my account.
 
 # Last words
 
 I really like Twitter and what they provide for research community. I hope to see a better Twitter.
 
-I will remember the 08/16 as the they my Twitter account suspended and reborn as [@onurvarolbot](https://twitter.com/onurvarolbot) :laughing:
+I will remember the 08/16 as the they my Twitter account suspended and reborn as [@onurvarolbot](https://twitter.com/onurvarolbot) :D
