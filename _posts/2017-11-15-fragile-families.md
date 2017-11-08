@@ -66,7 +66,7 @@ Between different submission I tracked the leader board score, my submission sco
 Once organizers announced the results, I analyzed my model to highlight features found to be most relevant. Below is the top scoring features. 
 
 | Feature name | description |
-| --- | --- | --- |
+| --- | --- |
 | hv5_wj10ss  | Woodcock Johnson Test 10 standard score |
 | cm5hhinc    | Constructed - Mother's Household income |
 | hv5_ppvtss  | PPVT standard score |
