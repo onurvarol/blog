@@ -72,7 +72,46 @@ Once organizers announced the results, I analyzed my model to highlight features
 | hv5_ppvtss  | PPVT standard score |
 | hv5_ppvtraw | PPVT raw score |
 | cf5hhincb   | Constructed - Household income mother report for married/cohab if available |
-| t5c13c.     | c13C. Child's mathematical skills |
+| t5c13c      | c13C. Child's mathematical skills |
+
+<table>
+<colgroup>
+<col width="20%" />
+<col width="80%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Feature name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span">hv5_wj10ss</td>
+<td markdown="span">Woodcock Johnson Test 10 standard score</td>
+</tr>
+<tr>
+<td markdown="span">cm5hhinc</td>
+<td markdown="span">Constructed - Mother's Household income</td>
+</tr>
+<tr>
+<td markdown="span">hv5_ppvtss</td>
+<td markdown="span">PPVT standard score</td>
+</tr>
+<tr>
+<td markdown="span">hv5_ppvtraw</td>
+<td markdown="span">PPVT raw score</td>
+</tr>
+<tr>
+<td markdown="span">cf5hhincb</td>
+<td markdown="span">Constructed - Household income mother report for married/cohab if available</td>
+</tr>
+<tr>
+<td markdown="span">t5c13c</td>
+<td markdown="span">c13C. Child's mathematical skills</td>
+</tr>
+</tbody>
+</table>
 
 
 <div style="text-align:center; width=100%;"><img src="{{ site.baseurl }}/images/fragile-families/feature_importances.png"></div>
@@ -80,7 +119,7 @@ Once organizers announced the results, I analyzed my model to highlight features
 
 ## Notes and take aways
 
-After building some off-the-shelf methods to estimate outcome of kids in this dataset, I am still not feeling that I gained much intuition about the cause of problem. I am happy to learn more about $\hat{\beta}$ approach in the workshop :)
+After building some off-the-shelf methods to estimate outcome of kids in this dataset, I am still not feeling that I gained much intuition about the cause of problem. I am happy to learn more about $\hat{\beta}$ approach in the workshop :) I hope community effort will help to build ensemble of models that can point some interesting insights about the problem. 
 
 My repository is also publicly available through Github: [github.com/onurvarol/FragileFamiliesChallenge](https://github.com/onurvarol/FragileFamiliesChallenge)
 
