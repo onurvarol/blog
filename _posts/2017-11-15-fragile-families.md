@@ -3,6 +3,7 @@ layout: post
 title: Fragile Families Challenge
 excerpt: I participated FFC during 2017 Spring semester. Here I am describing my methology to approach this important challenge.
 date: 2017-11-15 22:00:00
+mathjax: true
 ---
 
 <div style="text-align:center;"><img src="{{ site.baseurl }}/images/fragile-families/FFC-logo.png"></div>
@@ -65,15 +66,6 @@ Between different submission I tracked the leader board score, my submission sco
 
 Once organizers announced the results, I analyzed my model to highlight features found to be most relevant. Below is the top scoring features. 
 
-| Feature name | description |
-| --- | --- |
-| hv5_wj10ss  | Woodcock Johnson Test 10 standard score |
-| cm5hhinc    | Constructed - Mother's Household income |
-| hv5_ppvtss  | PPVT standard score |
-| hv5_ppvtraw | PPVT raw score |
-| cf5hhincb   | Constructed - Household income mother report for married/cohab if available |
-| t5c13c      | c13C. Child's mathematical skills |
-
 <table>
 <colgroup>
 <col width="20%" />
@@ -112,6 +104,7 @@ Once organizers announced the results, I analyzed my model to highlight features
 </tr>
 </tbody>
 </table>
+
 
 
 <div style="text-align:center; width=100%;"><img src="{{ site.baseurl }}/images/fragile-families/feature_importances.png"></div>
