@@ -15,7 +15,7 @@ mathjax: true
 
 My participation to this important challenge started with an email that I received in April 2017. [Matt Salganik](http://www.princeton.edu/~mjs3/) from Princeton University was visiting our campus to give a talk about his research and upcoming challenge that he is organizing with Ian Lundberg and Sara McLanahan. I also highly recommend this book [Bit by Bit: Social Research in the Digital Age](http://www.bitbybitbook.com/) :) He was also organizing a "getting started workshop" in our campus. This was one of the driving force for me to participate this challenge. Another interesting aspect of this challenge is the opportunity to combine social science and computational approaches to address this problem.  
 
-In his slides [here](https://github.com/fragilefamilieschallenge/slides), Matt gives a great introduction to the challenge, but he also highlights why we (social and computational scientists) should work on such problems together. I really liked his comparison of these two groups: social scientists ($\hat{\beta}$) and data scientists ($\hat{y}$). 
+In his slides [here](https://github.com/fragilefamilieschallenge/slides), Matt gives a great introduction to the challenge, but he also highlights why we (social and computational scientists) should work on such problems together. I really liked his comparison of these two groups: social scientists ($$\hat{\beta}$$) and data scientists ($$\hat{y}$$). 
 
 <div style="text-align:center; width=100%;"><img src="{{ site.baseurl }}/images/fragile-families/social-vs-data.png"></div>
 
@@ -112,7 +112,7 @@ Once organizers announced the results, I analyzed my model to highlight features
 
 ## Notes and take aways
 
-After building some off-the-shelf methods to estimate outcome of kids in this dataset, I am still not feeling that I gained much intuition about the cause of problem. I am happy to learn more about $\hat{\beta}$ approach in the workshop :) I hope community effort will help to build ensemble of models that can point some interesting insights about the problem. 
+After building some off-the-shelf methods to estimate outcome of kids in this dataset, I am still not feeling that I gained much intuition about the cause of problem. I am happy to learn more about $$\hat{\beta}$$ approach in the workshop :) I hope community effort will help to build ensemble of models that can point some interesting insights about the problem. 
 
 My repository is also publicly available through Github: [github.com/onurvarol/FragileFamiliesChallenge](https://github.com/onurvarol/FragileFamiliesChallenge)
 
