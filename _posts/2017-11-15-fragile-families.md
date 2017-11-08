@@ -56,7 +56,9 @@ RandomForestRegressor(bootstrap=True, criterion='mse', max_depth=None,
 
 ## Evaluation of submissions
 
-For the evaluation I followed their performance metric: MSE. Organizers describe their system for evaluation [here](http://www.fragilefamilieschallenge.org/evaluating-submissions/).
+For the evaluation I followed their performance metric: MSE. Organizers describe their system for evaluation [here](http://www.fragilefamilieschallenge.org/evaluating-submissions/). Below is the general formula of how they evaluate different outcomes
+
+<div style="text-align:center; width=100%;"><img src="{{ site.baseurl }}/images/fragile-families/evaluation.png"></div>
 
 I employed cross validation mechanism to estimate performance of model on the traning dataset. Later I build a single model using all the available traning data. 
 
