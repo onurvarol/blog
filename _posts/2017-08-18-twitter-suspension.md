@@ -2,7 +2,7 @@
 layout: post
 title: How Twitter suspended my account
 excerpt: Twitter suspended my personal account that I also use to collect dataset for my research. I am sharing my experience and some suggestions for better execution of this process.
-date: 2015-08-22 22:00:00
+date: 2017-08-22 22:00:00
 ---
 
 It is difficult and heart-breaking for me to accept the fact that Twitter suspended [my account](https://twitter.com/onurvarol).
