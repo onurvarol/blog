@@ -124,3 +124,5 @@ My repository is also publicly available through Github: [github.com/onurvarol/F
 I am going to share my notes from the FFC scientific workshop, which will take place November 16th and 17th (Thursday and Friday) at Princeton University. I am also going to give a talk about my approach described in this blog post at the workshop.
 
 Details about the event is [here](http://www.fragilefamilieschallenge.org/fragile-families-challenge-scientific-workshop-nov-16-17/).
+
+Slides of my presentation is located [here](https://github.com/onurvarol/FragileFamiliesChallenge/blob/master/presentation/FFC_20171115.pdf)
